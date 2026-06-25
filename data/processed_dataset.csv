@@ -1,0 +1,101 @@
+subject_id,label,clinical_text,image_path
+10000032,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10000032.jpg
+10001217,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10001217.jpg
+10001725,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10001725.jpg
+10002428,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10002428.jpg
+10002495,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10002495.jpg
+10002930,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10002930.jpg
+10003046,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10003046.jpg
+10003400,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10003400.jpg
+10004235,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10004235.jpg
+10004422,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10004422.jpg
+10004457,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10004457.jpg
+10004720,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10004720.jpg
+10004733,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10004733.jpg
+10005348,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10005348.jpg
+10005817,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10005817.jpg
+10005866,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10005866.jpg
+10005909,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10005909.jpg
+10006053,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10006053.jpg
+10006580,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10006580.jpg
+10007058,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10007058.jpg
+10007795,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10007795.jpg
+10007818,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10007818.jpg
+10007928,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10007928.jpg
+10008287,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10008287.jpg
+10008454,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10008454.jpg
+10009035,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10009035.jpg
+10009049,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10009049.jpg
+10009628,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10009628.jpg
+10010471,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10010471.jpg
+10010867,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10010867.jpg
+10011398,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10011398.jpg
+10012552,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10012552.jpg
+10012853,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10012853.jpg
+10013049,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10013049.jpg
+10014078,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10014078.jpg
+10014354,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10014354.jpg
+10014729,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10014729.jpg
+10015272,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10015272.jpg
+10015860,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10015860.jpg
+10015931,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10015931.jpg
+10016150,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10016150.jpg
+10016742,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10016742.jpg
+10016810,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10016810.jpg
+10017492,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10017492.jpg
+10018081,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10018081.jpg
+10018328,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10018328.jpg
+10018423,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10018423.jpg
+10018501,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10018501.jpg
+10018845,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10018845.jpg
+10019003,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10019003.jpg
+10019172,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10019172.jpg
+10019385,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10019385.jpg
+10019568,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10019568.jpg
+10019777,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10019777.jpg
+10019917,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10019917.jpg
+10020187,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10020187.jpg
+10020306,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10020306.jpg
+10020640,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10020640.jpg
+10020740,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10020740.jpg
+10020786,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10020786.jpg
+10020944,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10020944.jpg
+10021118,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10021118.jpg
+10021312,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10021312.jpg
+10021487,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10021487.jpg
+10021666,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10021666.jpg
+10021938,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10021938.jpg
+10022017,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10022017.jpg
+10022041,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10022041.jpg
+10022281,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10022281.jpg
+10022880,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10022880.jpg
+10023117,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10023117.jpg
+10023239,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10023239.jpg
+10023771,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10023771.jpg
+10024043,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10024043.jpg
+10025463,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10025463.jpg
+10025612,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10025612.jpg
+10026255,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10026255.jpg
+10026354,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10026354.jpg
+10026406,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10026406.jpg
+10027445,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10027445.jpg
+10027602,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10027602.jpg
+10029291,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10029291.jpg
+10029484,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10029484.jpg
+10031404,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10031404.jpg
+10031757,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10031757.jpg
+10032725,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10032725.jpg
+10035185,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10035185.jpg
+10035631,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10035631.jpg
+10036156,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10036156.jpg
+10037861,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10037861.jpg
+10037928,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10037928.jpg
+10037975,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10037975.jpg
+10038081,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10038081.jpg
+10038933,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10038933.jpg
+10038992,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10038992.jpg
+10038999,0,"Patient presents with clear lungs, normal sinus rhythm, no acute distress noted.",data/images/patient_10038999.jpg
+10039708,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10039708.jpg
+10039831,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10039831.jpg
+10039997,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10039997.jpg
+10040025,1,Cardiomegaly noted with mild pulmonary vascular congestion. Patient reports short breath.,data/images/patient_10040025.jpg
